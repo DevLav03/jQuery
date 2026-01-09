@@ -24,7 +24,7 @@ client-side interactivity.
 - Smooth scrolling
 
 ## Live Demo
-🔗 https://yourusername.github.io/project-name/](https://devlav03.github.io/jQuery/)
+🔗 https://devlav03.github.io/jQuery/
 
 
 ## Author
