@@ -23,6 +23,10 @@ client-side interactivity.
 - Show/Hide elements
 - Smooth scrolling
 
+## Live Demo
+🔗 https://yourusername.github.io/project-name/](https://devlav03.github.io/jQuery/)
+
+
 ## Author
 - Name: Lavanya
 - GitHub: https://github.com/DevLav03/jQuery
