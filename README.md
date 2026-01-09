@@ -24,5 +24,5 @@ client-side interactivity.
 - Smooth scrolling
 
 ## Author
-- Name: Your Name
+- Name: Lavanya
 - GitHub: https://github.com/DevLav03/jQuery
