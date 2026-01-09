@@ -1,4 +1,4 @@
-# Responsive Website using HTML, CSS, Bootstrap & jQuery
+# Simple Responsive Website using HTML, CSS, Bootstrap & jQuery
 
 This project is a responsive web application built using HTML, CSS, JavaScript,
 Bootstrap, and jQuery. It focuses on clean UI design, responsiveness, and basic
@@ -8,7 +8,7 @@ client-side interactivity.
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap 5
+- Bootstrap 4
 - jQuery
 
 ## Features
